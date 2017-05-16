@@ -175,7 +175,7 @@ CUSTOM_KERNEL_USB=mt6577
 CUSTOM_KERNEL_VIBRATOR=vibrator
 
 # To choose LK LCM driver name
-CUSTOM_LK_LCM=hx8394a_hd720_dsi_vdo_tianma
+CUSTOM_LK_LCM=rm69052_oled
 
 # A mechanism for customer to enable their own sign key.
 CUSTOM_PRELOADER_CUSTOM=custom
@@ -1567,10 +1567,10 @@ MTK_HDMI_SUPPORT=no
 BOOT_LOGO=cu_hd720
 
 # To choose kernel LCM driver name
-CUSTOM_KERNEL_LCM=hx8394a_hd720_dsi_vdo_tianma
+CUSTOM_KERNEL_LCM=rm69052_oled
 
 # To choose uboot LCM driver name
-CUSTOM_UBOOT_LCM=hx8394a_hd720_dsi_vdo_tianma
+CUSTOM_UBOOT_LCM=rm69052_oled
 
 # To set LCM resolution height size
 LCM_HEIGHT=1280
